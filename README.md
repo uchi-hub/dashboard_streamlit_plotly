@@ -1,1 +1,1 @@
-# dashboard_streamlit_plotly
+# 自信と為替の関係
